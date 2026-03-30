@@ -9,3 +9,9 @@ This deck consists of 240 cards, one per rub' al-hizb (ربع الحزب) — a 
 This is how the deck looks:
 
 ![](./preview.png)
+
+## Getting the deck
+
+**Option 1:** Download the pre-built deck directly from the [latest release](https://github.com/hegzploit/Anki-Quran-Revision/releases/latest/download/quran-rub.apkg).
+
+**Option 2:** Clone the repo and generate it yourself by running `main.py`.
